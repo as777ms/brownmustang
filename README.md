@@ -35,7 +35,7 @@ console.log(localVar); // ReferenceError: localVar is not defined
 #### here is the example of global scope 
 ![globalscopeexample](./globalscope)
 
-@as777ms :+1: This PR looks great - it's ready to merge! :shipit:
+# @as777ms I think it will not be to borring repository :shipit:
 # _Hoisting_
 1.Variables (var, let, const):
 Variables declared with ~~var~~ are hoisted to the top of their containing scope during the compilation phase. However, their initialization remains in place.
